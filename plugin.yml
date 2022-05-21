@@ -1,0 +1,11 @@
+name: WingsPlugin
+main: org.example.Main
+version: 1.0.0
+api-version: 1.18.2
+
+
+commands:
+  wings:
+    description: Your description
+    usage: /wings true|false particleName layoutName
+    permission: wings.wingscommandpermission
